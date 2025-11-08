@@ -1,11 +1,12 @@
-#Les 3.2
-===
+# Les 3.2
 
-### Oefening 3.2 A: Muziek Speler:
 
-![Unity](/img/Schermafbeelding%202025-10-02%20222705.png)
+### Oefening 3.2 A : Muziek Speler 
 
-*** 
+![Unity](/GDV/img/Schermafbeelding%202025-10-02%20222705.png)
+
+---
+### Dit is mijn script :
 ```
 using Unity.VisualScripting;
 using UnityEngine;
@@ -103,5 +104,4 @@ public class MusicPlayer : MonoBehaviour
     }
 
 }
-
 ```
